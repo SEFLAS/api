@@ -26,7 +26,7 @@
 			ButtonColor = Color3.fromRGB(0, 153, 224),
 			ToggledColor = Color3.fromRGB(0, 153, 224),
 			SliderColor = Color3.fromRGB(0, 153, 224),
-			TopBarColor = Color3.fromRGB(35,35,35),
+			TopBarColor = Color3.fromRGB(15,15,15),
 		}
 	
 		do
