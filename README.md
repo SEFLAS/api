@@ -2,7 +2,7 @@
 * This Api For Roblox User.
 ![](https://cdn.discordapp.com/attachments/975219114937311265/996751893432909885/R.png)
 ## Usage
---Ex [[
+Ex 
 _G.SaveSetting = {
   ["Ex"] = Boolean or string or table
 }
@@ -10,7 +10,7 @@ loadstring(game:Httpget("LinkApi"))()
 Createfile("FileName") -- only string
 SaveFile("FileName",_G.SaveSetting) -- PathFIle and CallBack
 LoadFile("FileName",_G.SaveSetting
-]]
+
 ## Developer
 - **SEFLAS#5018**
 ## Community
