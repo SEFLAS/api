@@ -8,8 +8,9 @@ Ex
 - }
 - loadstring(game:Httpget("LinkApi"))()
 - Createfile("FileName") -- only string
-- SaveFile("FileName",_G.SaveSetting) -- PathFile and CallBack
+- SaveFile("FileName",_G.SaveSetting) -- PathFIle and CallBack
 - LoadFile("FileName",_G.SaveSetting
+- _G.SaveSetting["Ex] = table or string or Boolean or number
 
 ## Developer
 - **SEFLAS#5018**
