@@ -36,3 +36,5 @@ getgenv().LoadFile = function(Path,callback)
         return {"Oh Shit Man.",true}
     end
 end
+
+--SaveSetting
