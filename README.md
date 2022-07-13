@@ -4,11 +4,11 @@
 ## Usage
 Ex 
 - _G.SaveSetting = {
-  - ["Ex"] = Boolean or string or table
+  - ["Ex"] = Boolean or string or table or number
 - }
 - loadstring(game:Httpget("LinkApi"))()
 - Createfile("FileName") -- only string
-- SaveFile("FileName",_G.SaveSetting) -- PathFIle and CallBack
+- SaveFile("FileName",_G.SaveSetting) -- PathFile and CallBack
 - LoadFile("FileName",_G.SaveSetting
 
 ## Developer
