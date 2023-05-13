@@ -14,5 +14,5 @@ return(function(A_1)
     local A_5 = (syn and syn.request) or (fluxus and request) or (http and http.request) or request
     local P_9 = A_5({Url=A_1[2],Method="GET"}).Body
     local L_16 = L_1(P_9, "strong")
-    return L_16[1],L_16
+    return L_16
 end)
