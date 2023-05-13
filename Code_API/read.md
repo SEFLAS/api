@@ -14,7 +14,7 @@ for i,v in next,p do
 end
 ```
 ## Callback
-![](https://cdn.discordapp.com/attachments/857823544838455306/1106820696497205268/image.png)
+![](https://cdn.discordapp.com/attachments/857823544838455306/1106823650600034334/image.png)
 - **How to Get Update Data Code**
 ```lua
 
