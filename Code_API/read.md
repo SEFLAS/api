@@ -10,6 +10,11 @@ Url require : https://progameguides.com
 ## Callback
 ![](https://cdn.discordapp.com/attachments/857823544838455306/1106820696497205268/image.png)
 - **How to Get Update Data Code**
+```lua
+local api = loadstring(game:HttpGet("https://raw.githubusercontent.com/SEFLAS/api/main/Code_API/api.lua"))()
+local i = api({<string> <game name>,<Url> Exmaple : https://progameguides.com/roblox/bee-swarm-simulator-codes/})
+print(i[1]) -- Get data Update
+```
 ## Developer
 - **SEFLAS#5018**
 ## Community
