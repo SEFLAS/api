@@ -9,7 +9,7 @@ Url require : https://progameguides.com
 ```
 ## Callback
 ![](https://cdn.discordapp.com/attachments/857823544838455306/1106820696497205268/image.png)
--**How to Get Update Data Code**
+- **How to Get Update Data Code**
 ## Developer
 - **SEFLAS#5018**
 ## Community
