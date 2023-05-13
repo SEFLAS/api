@@ -7,9 +7,9 @@ local data = api({<string> <game name>,<Url> Exmaple : https://progameguides.com
 Url require : https://progameguides.com 
 for i,v in next,p do
 	  if i == 1 then
-        print(v[i]) -- Get Data Code Update
+               print(v[i]) -- Get Data Code Update
 	  else
-		   print(v)
+	       print(v)
 	  end
 end
 ```
