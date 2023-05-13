@@ -8,7 +8,7 @@ api({<string> <game name>,<Url> Exmaple : https://progameguides.com/roblox/bee-s
 Url require : https://progameguides.com 
 ```
 ##callback
-![](![image](https://github.com/SEFLAS/api/assets/105623764/d4533fcc-8753-47a6-85cf-45f6634cfce1))
+![](https://cdn.discordapp.com/attachments/857823544838455306/1106820696497205268/image.png)
 ## Developer
 - **SEFLAS#5018**
 ## Community
