@@ -1,5 +1,6 @@
 ## About The Project
 - **Make It Free For Deverloper**
+- **Credit to me pls**
 ## Usage
 ```lua
 local api = loadstring(game:HttpGet("https://raw.githubusercontent.com/SEFLAS/api/main/Code_API/apimain.lua"))()
