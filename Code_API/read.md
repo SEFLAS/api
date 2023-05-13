@@ -3,10 +3,12 @@
 ![](![image](https://github.com/SEFLAS/api/assets/105623764/cd976944-3176-48da-96bb-1d97d774ed3c))
 ## Usage
 ```lua
-local api = loadstring(api)()
-api:({})
+local api = loadstring(game:HttpGet("https://raw.githubusercontent.com/SEFLAS/api/main/Code_API/api.lua"))()
+api({<string> <game name>,<Url> Exmaple : https://progameguides.com/roblox/bee-swarm-simulator-codes/}) 
+Url require : https://progameguides.com 
 ```
-
+#callback
+![](![image](https://github.com/SEFLAS/api/assets/105623764/cd976944-3176-48da-96bb-1d97d774ed3c))
 ## Developer
 - **SEFLAS#5018**
 ## Community
