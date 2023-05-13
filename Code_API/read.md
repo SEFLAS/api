@@ -1,5 +1,5 @@
 ## About The Project
--- ** Make It Free For Deverlop**
+- **Make It Free For Deverlop**
 ## Usage
 ```lua
 local api = loadstring(game:HttpGet("https://raw.githubusercontent.com/SEFLAS/api/main/Code_API/apimain.lua"))()
