@@ -6,12 +6,12 @@
 local api = loadstring(game:HttpGet("https://raw.githubusercontent.com/SEFLAS/api/main/Code_API/apimain.lua"))()
 local data = api({<string> <game name>,<Url> Exmaple : https://progameguides.com/roblox/bee-swarm-simulator-codes/}) 
 --Url require : https://progameguides.com 
-for i,v in next,p do
-	  if i == 1 then
-               print(v[i]) -- Get Data Code Update
-	  else
-	       print(v)
-	  end
+for i,v in next,data do
+    if i == 1 then
+        print(v[i]) -- Get Data Code Update
+    else
+	print(v)
+    end
 end
 ```
 ## Callback
