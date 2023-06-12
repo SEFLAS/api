@@ -3,7 +3,7 @@
 - **Credit to me pls**
 ## Usage
 ```lua
-local code = loadstring(game:HttpGet('https://raw.githubusercontent.com/SEFLAS/api/main/Code_API/api.lua'))()({<string> <game name>,<Url> Exmaple : https://progameguides.com/roblox/bee-swarm-simulator-codes/})
+local code = loadstring(game:HttpGet('https://raw.githubusercontent.com/SEFLAS/api/main/Code_API/api.lua'))()({<string> <game name>,<Url> requirement : https://progameguides.com/roblox/bee-swarm-simulator-codes/})
 table.foreach(code:GetCode(),print) -- returns code 
 print(code:GetDataUpdate())
 ```
@@ -19,3 +19,5 @@ print(code:GetDataUpdate()) -- returns data code update
 - **SEFLAS#5018**
 ## Community
 - **d0i Community** [Discord Server](https://discord.gg/BRpYWyw8Qz)
+- ## LICENSE
+- FREE FOR ALL
