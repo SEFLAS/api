@@ -5,7 +5,7 @@
 ## Profile
 ![](https://komarev.com/ghpvc/?username=SEFLAS&color=000000)
 ![](https://img.shields.io/badge/Discord-SEFLAS%235018-black)
-![](https://img.shields.io/github/languages/top/SEFLAS/x09_log)
+![](https://img.shields.io/github/languages/top/SEFLAS/api)
 ![](https://img.shields.io/github/followers/SEFLAS?style=social)
 
 ## Developer
