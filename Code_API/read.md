@@ -16,12 +16,11 @@ end
 ```
 ## Callback
 ![](https://cdn.discordapp.com/attachments/857823544838455306/1106823650600034334/image.png)
-- **How to Get Update Data Code**
+- **Exmaple**
 ```lua
-
-local api = loadstring(game:HttpGet("https://raw.githubusercontent.com/SEFLAS/api/main/Code_API/apimain.lua"))()
-local i = api({<string> <game name>,<Url> Exmaple : https://progameguides.com/roblox/bee-swarm-simulator-codes/})
-print(i[1]) -- Get data Update
+local code = loadstring(game:HttpGet('https://raw.githubusercontent.com/SEFLAS/api/main/Code_API/api.lua'))()({"Bee Swarm","https://progameguides.com/roblox/bee-swarm-simulator-codes/"})
+table.foreach(code:GetCode(),print) -- returns code 
+print(code:GetDataUpdate()) -- returns data code update
 ```
 ## Developer
 - **SEFLAS#5018**
