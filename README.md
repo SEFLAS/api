@@ -4,7 +4,7 @@
 ![](https://cdn.discordapp.com/attachments/975219114937311265/996751893432909885/R.png)
 ## Profile
 ![](https://komarev.com/ghpvc/?username=SEFLAS&color=de0021)
-![](https://img.shields.io/badge/Discord-SEFLAS%235018-red)
+![](https://img.shields.io/badge/Discord-SEFLAS%235018-black)
 ![](https://img.shields.io/github/languages/top/SEFLAS/x09_log)
 ![](https://img.shields.io/github/followers/SEFLAS?style=social)
 
