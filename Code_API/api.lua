@@ -27,13 +27,7 @@ return(function(args)
     function Libaray:GetDataUpdate()
         local pu = (syn and syn.request) or (fluxus and request) or (http and http.request) or request
         local m = ExtractCode({pu({Url=args[2],Method="GET"}).Body,"strong"})
-        local ot
-        for is,cv in next,m do
-            if is == 1 then
-                ot = cv
-                break
-            end
-        end
+        local ot = m[1]
         return ot
     end
     return Libaray
