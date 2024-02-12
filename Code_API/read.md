@@ -8,6 +8,9 @@ table.foreach(code:GetCode(),print) -- returns code
 print(code:GetDataUpdate())
 ```
 ## Callback
+```lua
+typedata : table
+```
 ![](https://cdn.discordapp.com/attachments/857823544838455306/1106823650600034334/image.png)
 - **Exmaple**
 ```lua
