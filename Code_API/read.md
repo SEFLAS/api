@@ -13,7 +13,7 @@ print(code:GetDataUpdate())
 ```lua
 local code = loadstring(game:HttpGet('https://raw.githubusercontent.com/SEFLAS/api/main/Code_API/api.lua'))()({"Bee Swarm","https://progameguides.com/roblox/bee-swarm-simulator-codes/"})
 table.foreach(code:GetCode(),<callback>) -- returns code 
-print(code:GetDataUpdate()) -- returns data code update
+print(code:GetDataUpdate()) -- return lasted data code update
 ```
 ## Developer
 - **SEFLAS#5018**
